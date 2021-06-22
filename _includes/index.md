@@ -3,7 +3,7 @@ DiscoverSUTD  is a 3 week long introduction to the SUTD community. It will last 
 
 DiscoverSUTD was started by the team behind [OpenSUTD](https://opensutd.org/).
 
-OpenSUTD is modelled after the idea of an Open Organisation, and we have community standards for all members to abide by in order to ensure a good enviroment for members to learn and contribute effectively.
+OpenSUTD is modelled after the idea of an Open Organisation, and we have community standards for all members to abide by in order to ensure a good environment for members to learn and contribute effectively.
 ```
 An Open Organization is one that engages participative communities both inside and out; responds to opportunities more quickly, has access to resources and talent outside the organization, and inspires, motivates, and empowers people at all levels to act. -Open Organisation Definition
 ```
