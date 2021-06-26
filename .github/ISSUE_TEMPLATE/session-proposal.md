@@ -2,8 +2,8 @@
 name: Session Proposal
 about: Propose a session conducted by a Student Organisation (Fifth Row etc.)
 title: "[FRS] Title of session"
-labels: needs-review, proposal
-assignees: Fishbiscuit, tlkh
+labels: ''
+assignees: ''
 
 ---
 
