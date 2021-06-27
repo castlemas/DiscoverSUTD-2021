@@ -2,8 +2,8 @@
 name: Student Organisation Event Proposal
 about: 'Propose an event to be conducted by a Student Organisation '
 title: "[SOEP] - [Insert title of your event]"
-labels: ''
-assignees: ''
+labels: needs-review, proposal
+assignees: Jolow99, castlemas
 
 ---
 
@@ -29,7 +29,7 @@ assignees: ''
 
 **Session details**
 
-Let us know the number of participants you can handle and where you intend to hold it. (if you need a venue, do let us know what sort of venue would be ideal to book). If you have any constraints on the timing or any other matters, do specify as well
+Let us know the number of participants you can handle and where you intend to hold it.. If you have any constraints on the timing or any other matters, do specify as well (We are only able to help with booking of common rooms such as Thinktanks, no guarantee that these rooms will be available too, do indicate if you would like us to book for you! )
 
 
 **Speakers/Workshop facilitators**
