@@ -3,7 +3,7 @@ name: Student Organisation Event Proposal
 about: 'Propose an event to be conducted by a Student Organisation '
 title: "[SOEP] - [Insert title of your event]"
 labels: needs-review, proposal
-assignees: Jolow99, castlemas
+assignees: Jolow99, castlemas, hariz-wrts
 
 ---
 

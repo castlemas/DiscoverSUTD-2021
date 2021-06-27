@@ -3,7 +3,7 @@ name: Student Organisation Details
 about: To submit Student Organisation details to be updated on DiscoverSUTD website
 title: "[SOD] - [Insert name of your Student Organisation] "
 labels: needs-review, proposal
-assignees: Jolow99, castlemas
+assignees: Jolow99, castlemas, hariz-wrts
 
 ---
 

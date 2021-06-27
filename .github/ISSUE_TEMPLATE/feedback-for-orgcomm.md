@@ -3,7 +3,7 @@ name: Feedback for OrgComm
 about: Provide comments or suggestions to OrgComm
 title: "[Feedback] Title of feedback"
 labels: ''
-assignees: castlemas, Jolow99,
+assignees: castlemas, Jolow99, hariz-wrts
 
 ---
 
