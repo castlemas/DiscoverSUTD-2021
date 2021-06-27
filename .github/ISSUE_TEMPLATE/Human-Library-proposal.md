@@ -2,8 +2,8 @@
 name: Human Library Proposal
 about: Propose a Story (10 mins)
 title: "[LT] Title of Story"
-labels: needs-review, proposal
-assignees: Fishbiscuit, tlkh
+labels: ''
+assignees: ''
 
 ---
 

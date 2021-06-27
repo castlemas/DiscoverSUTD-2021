@@ -1,23 +1,24 @@
 ---
-name: Session Proposal
-about: Propose a session conducted by a Student Organisation (Fifth Row etc.)
-title: "[FRS] Title of session"
-labels: needs-review, proposal
-assignees: Fishbiscuit, tlkh
+name: Student Organisation Event Proposal
+about: 'Propose an event to be conducted by a Student Organisation '
+title: "[SOEP] - [Insert title of your event]"
+labels: ''
+assignees: ''
 
 ---
 
 **Session Name**
-
-A title that captures the intent of the session and is attention-grabbing.
+[Insert a title that captures the intent of the session and is attention-grabbing.]
 
 **Abstract**
 
-A short description of the highlights of your session in one or two sentences.
+[Insert a short description of the highlights of your session in one or two sentences.]
 
 **Student Organisation organising this session**
+[Insert name of Student Organisation]
 
-
+**Event Format**
+[Will your event be physical or virtual?]
 
 **Session intent (what to expect)**
 
@@ -26,11 +27,9 @@ A short description of the highlights of your session in one or two sentences.
 - *italicise* the specific skills/ takeaways that are quantifiable to help us create a concept map of the sessions we are offering for our incoming Freshmores
 
 
-
 **Session details**
 
 Let us know the number of participants you can handle and where you intend to hold it. (if you need a venue, do let us know what sort of venue would be ideal to book). If you have any constraints on the timing or any other matters, do specify as well
-
 
 
 **Speakers/Workshop facilitators**
