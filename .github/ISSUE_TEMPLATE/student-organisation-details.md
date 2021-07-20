@@ -26,4 +26,4 @@ assignees: Jolow99, castlemas, hariz-wrts
 [If applicable, Insert link to your introduction video here]
 
 **Other Relevant Links**
-[Insert relevant links e.g. Student Organisation website, Telegram, Registration Forms],
+[Insert relevant links e.g. Student Organisation website, Telegram, Registration Forms]
