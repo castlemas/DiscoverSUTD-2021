@@ -1,7 +1,7 @@
 ---
 layout: home
 title: About us :)
-subtitle: Project Page for organising DiscoverSUTD 2021
+subtitle: Project Page for organising DiscoverSUTD-2021
 ---
 
 DiscoverSUTD  is a 3 week long introduction to the SUTD community. It will last from 13 September 2021 - 30 September 2021. It is an onboarding event for every incoming batch of freshmores. There are many parts to it. Fifth row sessions, lab visits, supper, human library as well as other parts to this 3 week long event. To get involve in this event, simply click on contributing for fifth row leaders or individual leaders. 
