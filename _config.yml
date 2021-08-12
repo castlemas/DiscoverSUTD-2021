@@ -6,15 +6,15 @@
 # --- Required options --- #
 
 # Name of website
-title: DiscoverSUTD-2021 microsite
+title: My Website
 
 # Your name to show in the footer
-author: OpenSUTD
+author: Some Person
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "wrdvder"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "DiscoverSUTD-2021 microsite"
+url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
