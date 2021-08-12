@@ -15,6 +15,12 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  Programmes: "programs"
+  Contributing: "contributing"
+  Proposal Details: "proposal_details"
+  Lab Sessions: "lab_sessions"
+  For Alumnis: "for_alumnis"
+  Site repo: "https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
