@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is this?
-subtitle: 
+subtitle: An Open Organization is one that engages participative communities both inside and out;  responds to opportunities more quickly, has access to resources and talent outside the organization, and inspires, motivates, and empowers people at all levels to act. -Open Organisation Definition
 ---
 
 DiscoverSUTD  is a 3 week long introduction to the SUTD community. It will last from 13 September 2021 - 30 September 2021. It is an onboarding event for every incoming batch of freshmores. There are many parts to it. Fifth row sessions, lab visits, supper, human library as well as other parts to this 3 week long event. To get involve in this event, simply click on contributing for fifth row leaders or individual leaders. 
