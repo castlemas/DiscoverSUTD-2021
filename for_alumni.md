@@ -4,7 +4,7 @@ title:  "For Alumni"
 ---
 
 
-Hi Alumnis, we cordially to invite you to <b>1. Human Library</b>, <b>2. Supper with Seniors</b>, and <b>3. Ask Me Anything (AMA) Telegram group!</b>
+Hi Alumni, we cordially to invite you to <b>1. Human Library</b>, <b>2. Supper with Seniors</b>, and <b>3. Ask Me Anything (AMA) Telegram group!</b>
 <br>
 
 Tentatively, <br>
