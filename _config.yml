@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: DiscoverSUTD-2021 Microsite
 
 # Your name to show in the footer
-author: Some Person
+author: OpenSUTD
 
 # --- List of links in the navigation bar --- #
 
@@ -21,10 +21,8 @@ navbar-links:
   Lab Sessions: "lab_sessions"
   For Alumnis: "for_alumnis"
   Site repo: "https://github.com/OpenSUTD/DiscoverSUTD-2021-microsite"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  
+  Author's home: "https://opensutd.org/"
 
 # --- Logo --- #
 
