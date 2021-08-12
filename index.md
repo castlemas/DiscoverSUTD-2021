@@ -1,7 +1,7 @@
 ---
 layout: home
-title: What is this?
-subtitle: An Open Organization is one that engages participative communities both inside and out; responds to opportunities more quickly, has access to resources and talent outside the organization, and inspires, motivates, and empowers people at all levels to act. -Open Organisation Definition
+title: About us :)
+subtitle: Project Page for organising DiscoverSUTD 2021
 ---
 
 DiscoverSUTD  is a 3 week long introduction to the SUTD community. It will last from 13 September 2021 - 30 September 2021. It is an onboarding event for every incoming batch of freshmores. There are many parts to it. Fifth row sessions, lab visits, supper, human library as well as other parts to this 3 week long event. To get involve in this event, simply click on contributing for fifth row leaders or individual leaders. 
@@ -9,9 +9,10 @@ DiscoverSUTD  is a 3 week long introduction to the SUTD community. It will last 
 DiscoverSUTD was started by the team behind [OpenSUTD](https://opensutd.org/).
 
 OpenSUTD is modelled after the idea of an Open Organisation, and we have community standards for all members to abide by in order to ensure a good environment for members to learn and contribute effectively.
-```
-An Open Organization is one that engages participative communities both inside and out; responds to opportunities more quickly, has access to resources and talent outside the organization, and inspires, motivates, and empowers people at all levels to act. -Open Organisation Definition
-```
+
+>An Open Organization is one that engages participative communities both inside and out; responds to opportunities more quickly, has access to resources and talent outside the organization, and inspires, motivates, and empowers people at all levels to act. 
+>-Open Organisation Definition
+
 
 This is why we are making sure that our project documents are kept open so that **you** can be a part of this process.
 Read the "Posts" section at the bottom of this page if you're interested in going through our minutes.
