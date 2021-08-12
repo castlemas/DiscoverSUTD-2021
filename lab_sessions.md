@@ -1,8 +1,9 @@
 ---
 layout: page
 title:  "Lab Sessions"
+subtitle: Overall contribution
 ---
-**Overall contribution**
+
 
 If you are a lab manager, thank you for being onboard with us!
 
