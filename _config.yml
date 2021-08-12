@@ -14,7 +14,7 @@ author: OpenSUTD
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  
   Programmes: "programs"
   Contributing: "contributing"
   Proposal Details: "proposal_details"
