@@ -1013,7 +1013,7 @@ pre {
   cursor: pointer;
   right: 25%;
   margin-right: 2rem;
-  color: #555;
+  color: rgb(255, 255, 255);
   font-size: 2rem;
   line-height: 2rem;
   font-weight: bold;
