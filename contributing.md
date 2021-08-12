@@ -1,11 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Contributing"
-subtitle: ehbhbdebhdbhdebhd
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+
 ---
 **Overall Contribution Workflow**
 
